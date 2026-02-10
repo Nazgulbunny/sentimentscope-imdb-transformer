@@ -212,3 +212,7 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 checkpoints/*.pt
+
+aclImdb_v1.tar.gz
+aclImdb/
+
